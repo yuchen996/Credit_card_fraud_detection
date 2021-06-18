@@ -1,0 +1,16 @@
+The packages in python are showing as below, you can use
+"pip install xgboost" to install xgboost, and
+"pip install catboost" to install catboost.
+
+
+All needed packaged already import from the beginning of the notebook.
+It can be run on google colab, or jupyter-notebook as you choose.
+
+python version    Python 3.7.4
+xgboost version   1.0.0
+catboost version  0.24.4
+sklearn           0.24.1
+matplotlib        3.3.3
+numpy             1.19.5
+pandas            1.2.1
+seaborn          0.11.1
